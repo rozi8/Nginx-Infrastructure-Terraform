@@ -12,10 +12,15 @@ Mini project pembelajaran harian Terraform Fahru Rozi untuk menjalankan containe
 ## 📁 Struktur File
 
 ├── main.tf # Deklarasi resource Docker image & container
+
 ├── variables.tf # Deklarasi variabel input
+
 ├── terraform.tfvars # Nilai variabel input
+
 ├── outputs.tf # Output hasil provisioning
+
 ├── README.md # Dokumentasi project
+
 └── .gitignore # File yang diabaikan Git
 
 
