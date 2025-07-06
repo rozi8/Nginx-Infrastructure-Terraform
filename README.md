@@ -1,6 +1,6 @@
-# 🚀 Terraform Nginx with Variables
+# 🚀 Terraform Nginx dengan menggunakan Variables dan Output
 
-Mini project pembelajaran harian Terraform Fahru Rozi untuk menjalankan container Nginx menggunakan Docker provider secara dinamis dengan variable.
+Mini project pembelajaran harianku (Fahrur Rozi), Terraform untuk menjalankan container Nginx menggunakan Docker provider secara dinamis dengan variable dan output.
 
 ## 📦 Fitur
 
